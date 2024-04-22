@@ -1,0 +1,27 @@
+Overall game structure:
+https://www.youtube.com/watch?v=2bmvlwvnirk&list=PLUJBQEDDLNclxZvKTT2Icq9aVBPqLRMCA&pp=iAQB
+https://libgdx.com/wiki/graphics/2d/spritebatch-textureregions-and-sprites#:~:text=Instead%2C%20many%20rectangles%20for%20the,submitting%20it%20to%20the%20GPU.
+
+Creating Game Objects:
+https://youtu.be/6QKhSctuMcs?si=YpiBJy3SvBEJ-WEZ
+
+Player movement:
+https://youtu.be/BxnEYNchtI8?si=ksyAFHPL7NMJrkMV
+
+Respawn/inactivation:
+https://github.com/libgdx/libgdx/blob/master/gdx/src/com/badlogic/gdx/utils/TimeUtils.java
+
+Collision:
+https://happycoding.io/tutorials/processing/collision-detection
+https://stackoverflow.com/questions/26538154/java-movement-and-wall-collision-in-a-2d-array-map
+
+Sound effects:
+https://libgdx.com/wiki/audio/sound-effects
+
+
+Documentation:
+https://www.jrebel.com/blog/tips-and-tricks-for-better-java-documentation
+https://www.jetbrains.com/help/idea/creating-jsdoc-comments.html#ws_js_create_jsdoc_comments
+https://stackoverflow.com/questions/16138217/how-exactly-does-param-work-java
+https://www.jetbrains.com/help/idea/markdown.html#links
+https://github.com/ai/size-limit#readme
